@@ -66,4 +66,8 @@ Deploy your changes to production using [packaging](https://developer.salesforce
 # VSCodeRepo_1
 
 #Sfdx addition to Readme file
+
 %%Adding more to Readme file%% Me adding more%%%
+
+%%Adding more to Readme file%%  ***ADD from Remote***
+^^Some More Addition^^
